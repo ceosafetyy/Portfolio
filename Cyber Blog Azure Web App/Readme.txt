@@ -1,4 +1,4 @@
-( Part 1 )
+( Part 1 ) Build , Host, and Design my Web Application using a Godaddy low cost domain.
 
 Created an Azure web app.
 Chose a custom domain with godaddy.com
